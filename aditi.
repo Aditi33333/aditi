@@ -1,0 +1,13 @@
+// Basic example of how to display a list of products on ecommerce website
+
+#include<stdio.h>
+int main()
+{
+    printf("Welcome to our ecommerce website!\n");
+    //display list of products
+    printf("Here are our corrent products:\n");
+    printf("1. Products A - $10.00\n");
+    printf("2. Products B - $20.00\n");
+    printf("3. Products C - $30.00\n");
+    return 0;
+}
